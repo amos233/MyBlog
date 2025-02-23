@@ -1,4 +1,4 @@
-baseurl: https://github.com/amos233/JumpBear.github.io.git
+baseurl: https://example.com/
 languageCode: en-us
 theme: hugo-theme-stack
 title: Example Site

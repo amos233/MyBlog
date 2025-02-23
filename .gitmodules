@@ -1,6 +1,6 @@
-[submodule "JumpBear/themes/papermod"]
-	path = JumpBear/themes/papermod
-	url = https://github.com/theNewDynamic/gohugo-theme-papermod
 [submodule "JumpBear/themes/hugo-theme-stack"]
 	path = JumpBear/themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
